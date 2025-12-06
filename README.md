@@ -14,13 +14,6 @@ Welcome to my GitHub profile! I'm focused on building games, tools, and experime
 * 📫 Contact: *pmtrantien@gmail.com*
 
 ---
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,visualstudio,linux,windows" />
-
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ttdcube&show_icons=true&theme=tokyonight" />
