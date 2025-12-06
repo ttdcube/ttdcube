@@ -14,7 +14,11 @@ Welcome to my GitHub profile! I'm focused on building games, tools, and experime
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ttdcube&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ttdcube&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttdcube&layout=compact&theme=tokyonight" />
+</p>
+
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=ttdcube&theme=tokyonight)
