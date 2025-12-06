@@ -30,7 +30,10 @@ Welcome to my GitHub profile! I'm focused on building games, tools, and experime
 ---
 
 ## ✨ Typing Animation
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2315F788&lines=Game+Developer;C%2B%2B+Programmer;Indie+Creator;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=18&width=400&lines=ttdcube+-+Game+Dev" alt="typing">
+</p>
+
 
 ---
 
