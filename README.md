@@ -1,57 +1,73 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b4/06/18/b406180537025807977435d8869c9b6b.gif" width="100%" style="border-radius: 6px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f172a,1e293b,334155&height=180&section=header&text=TTDCUBE&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%E2%80%A2%20C%2B%2B%20Engineer%20%E2%80%A2%20Indie%20Creator&descSize=20&descAlignY=65&animation=fadeIn" width="100%" style="border-radius: 10px" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=58a6ff&background=00000000&center=true&vCenter=true&width=500&lines=PLAYER:+TTDCUBE;CLASS:+C%2B%2B+ENGINEER;LEVEL:+UNKNOWN" alt="Typing SVG" />
-  </a>
+  <h3>👋 Hello, world!</h3>
+  <p width="600px">
+    I am a passionate <b>Game Developer</b> focusing on the intersection of <br/>
+    <i>Low-level Systems</i>, <i>Game Architecture</i>, and <i>Performance Optimization</i>.
+  </p>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/hS4G3O2nL490yH8w1V/giphy.gif" width="50px">
+  <a href="mailto:pmtrantien@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pmtrantien%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Game%20Systems-10B981?style=flat-square&logo=monitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Vietnamese%20%2F%20English-F59E0B?style=flat-square&logo=google-translate&logoColor=white" />
 </div>
+
+<br/>
 
 <table align="center" border="0" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 📜 QUEST LOG (About Me)
+### 👨‍💻 Professional Summary
 
-> **Current Objective:** > ⚔️ Building `SurvivalGame` Engine.
-
-> **Character Bio:** > A dedicated C++ Programmer crafting worlds through code. Focused on low-level systems, memory management, and game architecture.
+* **Core Competency:** Advanced C++ (Modern Standards 17/20).
+* **Current Project:** Developing a custom engine architecture for **SurvivalGame**.
+* **Philosophy:** *"Understand the hardware to master the software."*
+* **Interests:**
+    * 🎯 Game Engine Design
+    * 🔧 Memory Management
+    * 📱 Cross-platform Dev (Flutter)
 
 <br/>
 
-### 🎒 INVENTORY (Tech Stack)
+### 🛠️ Technical Arsenal
 
-<p align="left">
-  <img src="https://img.shields.io/badge/WEAPON-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MAGIC-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/SKILL-Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/TOOL-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/ITEM-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+
+**Tools & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 </td>
 
-<td width="50%" valign="top">
+<td width="5%" valign="top"></td>
 
-### 📊 ATTRIBUTES (Stats)
+<td width="40%" valign="top">
 
-**C++ Mastery** `[████████████░░░] 85%`  
-**Game Logic** `[█████████░░░░░░] 60%`  
-**Coffee Consumption** `[███████████████] 100%`
+### 📈 Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=ttdcube&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=00000000&icon_color=2563EB&text_color=555" width="100%" />
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttdcube&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" width="100%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttdcube&layout=compact&theme=default&hide_border=true&hide_title=true&bg_color=00000000&text_color=555" width="100%" />
 
 </td>
 </tr>
@@ -59,22 +75,21 @@
 
 <br/>
 
-<div align="center">
-  <h3>🛡️ MISSION BOARD</h3>
-</div>
+### 🚀 Featured Projects
 
-| 🚩 Mission Name | 🔮 Class | 📜 Status | 💰 Reward (Learning) |
-| :--- | :---: | :---: | :--- |
-| **SurvivalGame** | `C++ Core` | 🟡 **In Progress** | Physics, Memory, ECS |
-| **Engine Tools** | `CMake` | 🟢 **Completed** | Build Systems, Auto |
-| **Mobile App** | `Flutter` | ⚪ **Side Quest** | UI/UX Design |
+| **Project** | **Role** | **Stack** | **Description** |
+| :--- | :--- | :--- | :--- |
+| **SurvivalGame** | Lead Dev | `C++` | Building gameplay systems, physics integration, and real-time logic from scratch. |
+| **EngineTools** | Creator | `CMake` | Automation scripts for building C++ projects efficiently. |
 
 <br/>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/79493922370868f037617631336c533e/tumblr_p645d5F4yI1r1k34no1_500.gif" width="100%">
-  <br/>
-  <sub><i>Insert Coin to Continue...</i></sub>
-  <br/><br/>
-  <a href="mailto:pmtrantien@gmail.com"><img src="https://img.shields.io/badge/SEND_MAIL-pmtrantien-ff69b4?style=social&logo=gmail" alt="Email"></a>
+  <img src="https://streak-stats.demolab.com?user=ttdcube&theme=default&hide_border=true&bg_color=00000000&date_format=M%20j%5B%2C%20Y%5D&ring=2563EB&currStreakLabel=2563EB" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>© 2024 ttdcube • Game Developer Portfolio</sub>
 </div>
